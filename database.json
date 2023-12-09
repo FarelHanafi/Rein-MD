@@ -1,0 +1,131 @@
+{
+  "users": {
+    "6282334226291@s.whatsapp.net": {
+      "exp": 45,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "K I I T S U N E E - M D",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false
+    },
+    "62881026950162@s.whatsapp.net": {
+      "exp": 243,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Rel",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "pc": 1702111452651
+    },
+    "6282181966095@s.whatsapp.net": {
+      "exp": 26,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Danz?",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "pc": 1702114885864
+    }
+  },
+  "chats": {
+    "6282334226291@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62881026950162@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6282181966095@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1702114897575,
+      "lastSuccess": 1702114897575
+    },
+    "tools-openai.js": {
+      "total": 11,
+      "success": 2,
+      "last": 1702114416737,
+      "lastSuccess": 1702113820211
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6282334226291@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false,
+      "status": 1702114905696
+    }
+  }
+}
